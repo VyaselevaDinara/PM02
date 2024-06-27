@@ -1,4 +1,6 @@
 Credit Calculator
+
+
 ![CZZnuPtjauQ](https://github.com/VyaselevaDinara/PM02/assets/118040854/dfb9ff19-6135-46fd-8433-5d8ca4f6c48e)
 
 
